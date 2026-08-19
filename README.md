@@ -30,8 +30,8 @@ request your browser makes is a confession.
 
 | | |
 |---|---|
-| ✅ **Passive** | certificate transparency, DNS records, public HTTP responses, public JavaScript bundles, web archives |
-| ❌ **Not passive** | port scans, vulnerability scanners, brute force, authentication attempts, exploitation, writes |
+|  **Passive** | certificate transparency, DNS records, public HTTP responses, public JavaScript bundles, web archives |
+|  **Not passive** | port scans, vulnerability scanners, brute force, authentication attempts, exploitation, writes |
 
 Passive wins for four reasons:
 1. **Legal surface** — you're reading public records and public endpoints
