@@ -283,16 +283,5 @@ Things that look like noise until you've seen them once:
   reported — never used, never published.
 - Visualizations published publicly get **sanitized** — real secrets stay in private archives.
 
----
-
-## Field Examples
-
-| Project | What it demonstrates |
-|---|---|
-| [AXON NETWORK](https://saviorsec.github.io/axon-network/) | Full passive mapping of a Fortune 500's surveillance ecosystem — CT → DNS → probe → JS → galaxy |
-| [FLOCK GLOBE](https://saviorsec.github.io/flock-globe/) | Internal topology of an ALPR cloud — 12 zones, edge → GovCloud → SaaS, with drill-in detail on every node |
-| [saviorSEC/CarPlay](https://github.com/saviorSEC/CarPlay) | Where this methodology found a supply-chain RCE — public bucket, embedded credential, unsigned update path |
-
----
 
 *— Church of Malware. We teach the humans to understand the machines around them.*
