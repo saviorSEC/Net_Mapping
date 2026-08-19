@@ -3,7 +3,7 @@
 **Field-proven approach to mapping modern infrastructure from the outside — without touching a single system you don't own.**
 
 > Written from the operator's seat. Every technique here has been exercised against real
-> production targets (Flock Safety, Axon Enterprise, and others) and the results are live
+> production targets and the results are live
 > for you to inspect at the end of this document. Nothing here requires authentication,
 > exploitation, or an active scanner. Everything is already public — you're just learning
 > to read it.
